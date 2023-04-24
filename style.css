@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    margin: 0 !important;
+}
+
+span {
+    white-space: pre;
+}
+
+footer {
+    height: 10%;
+    font-size: 14px;
+}
+
+canvas {
+    background-image: url("./images/background.png");
+    background-repeat: repeat-x;
+    background-size: auto;
+    border: black 1px solid;
+}
